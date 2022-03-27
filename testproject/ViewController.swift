@@ -13,8 +13,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         view.backgroundColor = .gray
         print("hi")
-        
-        print("")
     }
 
 
